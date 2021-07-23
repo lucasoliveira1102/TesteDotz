@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotz.Core", "Dotz.Core\Dotz.Core.csproj", "{ECEE98E7-591E-4EC5-95D6-5198809F4B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotz.API", "Dotz.API\Dotz.API.csproj", "{C1985DFB-1294-4EE3-BBE8-51BA1B4A40C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEE98E7-591E-4EC5-95D6-5198809F4B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEE98E7-591E-4EC5-95D6-5198809F4B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEE98E7-591E-4EC5-95D6-5198809F4B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEE98E7-591E-4EC5-95D6-5198809F4B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1985DFB-1294-4EE3-BBE8-51BA1B4A40C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1985DFB-1294-4EE3-BBE8-51BA1B4A40C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1985DFB-1294-4EE3-BBE8-51BA1B4A40C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1985DFB-1294-4EE3-BBE8-51BA1B4A40C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAF8F94-CC42-4399-A6F0-E0352B973DEE}
+	EndGlobalSection
+EndGlobal
